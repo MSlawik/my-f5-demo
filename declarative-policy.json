@@ -22,6 +22,11 @@
         },
         "policy-builder": {
             "learnOnlyFromNonBotTraffic": false
-        }
+        },
+        "open-api-files": [
+            {
+            "link": "https://api.swaggerhub.com/apis/F5EMEASSA/Arcadia-OAS3/2.0.1-oas3"
+            }
+        ]
     }
 }
